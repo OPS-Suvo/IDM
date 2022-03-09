@@ -4,11 +4,11 @@
 [Software Informations]
 Product Name : Internet Download Manager
 Product Version : v6.40 Build 2
-Product Crack By : OPS Suvo
+Product Regkey Deisgned By : OPS Suvo
 Product Copyright By : OPS-2022,Inc 
 
 
-[Changelog By Crack]
+[Changelog]
 1.Popup Update Notification Facing Some Users Then Click To Cancel Button
 2.Fixed Extensions Enable Chrome Browser
 3.IDM Support Now Windows 11
