@@ -4,7 +4,7 @@
 [Software Informations]
 Product Name : Internet Download Manager
 Product Version : v6.40 Build 2
-Product Regkey Deisgned By : OPS Suvo
+Product License Deisgned By : OPS Suvo
 Product Copyright By : OPS-2022,Inc 
 
 
@@ -18,6 +18,8 @@ Product Copyright By : OPS-2022,Inc
 1.Added Fake "Serial Number" License
 2.Added Fake "LstChack" Years
 
+[Notice]
+Don't Regkey Edit or Value Changed Because IDM License Activation Creashing Problem Face You.
 
 [How To Crack Setup]
 1.First Disable Now Net Connections
