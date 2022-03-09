@@ -5,6 +5,6 @@ This Software Malware or Virus Free..!
 
 Save To Download And Use.
 
-Next Version Build Are Working And No Any Release Date Wait To Better Option..!
+Next Version Build Are Working And No Any Release Date Waiting For Better Option..!
 
 Take Care Your Health or Your Family ❤️
