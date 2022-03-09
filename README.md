@@ -1,6 +1,6 @@
 # IDM6.40-Build2-Full-Version
                                                         
-                                                        *Internet Download Manager 2022*
+                                    *Internet Download Manager 2022*
 
 
 [Software Informations]
