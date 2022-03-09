@@ -1,4 +1,4 @@
-# IDM-v6.40B2
+# IDM v6.40 Build 2
 Internet Download Manager v6.40 Build 2 Full Version 2022
 
 This Software Malware or Virus Free..!
